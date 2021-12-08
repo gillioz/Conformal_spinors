@@ -9,5 +9,5 @@ It focuses on 3 space-time dimensions, and on the following correlators:
 
 A publication using these computations is in preparation. It will be freely available at arxiv.org.
 
-The long-term goal is to extend these results to arbitrary primary operators in space-time dimensions 3 and 4.
+The long-term goal is to extend these results to arbitrary primary operators in 3 and 4 space-time dimensions.
 
